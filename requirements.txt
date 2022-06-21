@@ -1,6 +1,5 @@
 asgiref==3.5.2
 astroid==2.11.6
-backports.zoneinfo==0.2.1
 dill==0.3.5.1
 Django==4.0.5
 django-debug-toolbar==3.4.0
